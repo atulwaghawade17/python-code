@@ -1,8 +1,5 @@
 import re
 
-#txt='the rain in spain'
-#x=re.search("^the.*spain$",txt)
-#print(x)
 
 n=input(" ")
 pattern="[1-4]{1}[a-zA-Z]{2}[0-9]{2}[a-zA-Z]{2}[0-9]{3}"
